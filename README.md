@@ -4,6 +4,7 @@
 <h1 align="center">Hello World! I'm Derick/Dbessa, a Brazillian Developer👋:.</h1>
 
 🧑‍🎓 Studying **DIP - Digital Image Processing**
+
 👨‍💻 I’m currently working on **LAPISCO**
 
 # 💫 About Me:
