@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-
+Hi there! 👋 I'm a friendly problem solver who loves tackling challenges head-on. Whether it's coding, algorithms, or life itself, I’m always eager to find efficient solutions. I have a deep passion for chess, where strategy and patience reign supreme, and I apply that same mindset to everything I do. My ultimate goal is to be the best in my field, continuously learning, improving, and pushing the boundaries of what I can achieve. Let’s connect and build something amazing together! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dbessa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derickbessa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derickbessa12@gmail.com) 
