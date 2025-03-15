@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/99121235-e66b-4f45-a943-a862a51f8228" width="1000" height="500" />
+
+
 <h1 align="center">Hello World! I'm DBessa, a Brazillian Developer👋:.</h1>
 
 🧑‍🎓 Studying **DIP - Digital Image Processing**
