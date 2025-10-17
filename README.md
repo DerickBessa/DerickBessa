@@ -9,7 +9,7 @@
 
 ## 🧑‍🎓 About Me  
 🎓 Currently studying **Computer Vision, Machine Learning & Deep Learning**  
-💻 Working at **LAPISCO**  
+💻 Working at **LAPISCO** and **LABVICIA**  
 🎮 Passionate about games, learning new things, and solving real-world problems  
 
 ---
