@@ -60,8 +60,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DerickBessa&theme=dark&hide_border=false&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickBessa&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DerickBessa&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickBessa&theme=dark&layout=compact)
+
 
 ---
 
