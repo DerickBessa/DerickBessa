@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2b/d2/1a/2bd21a2dc9b3eb8f77cd60ac3f44ab83.gif" width="700" />
+  <img src="https://i.pinimg.com/originals/2b/d2/1a/2bd21a2dc9b3eb8f77cd60ac3f44ab83.gif" width="500" height="250" />
 </p>
 
 <h1 align="center">👋 Hello World! I'm <strong>Derick Bessa</strong></h1>
