@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1&typeSpeed=45&color=00FF00&background=000000&center=true&vCenter=true&width=1050&height=200&lines=%24+derick%40github%3A~%24+whoami;DerickBessa...;Brazilian+%3CDeveloper+%2F%3E+%E2%80%A2+AI+%26+CyberSecurity+Enthusiast;Fast%2C+Logical+%26+Efficient" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1&typeSpeed=45&color=00FF00&background=000000&center=true&vCenter=true&width=1050&height=400&lines=%24+derick%40github%3A~%24+whoami;DerickBessa...;Brazilian+%3CDeveloper+%2F%3E+%E2%80%A2+AI+%26+CyberSecurity+Enthusiast;Fast%2C+Logical+%26+Efficient" /></p>
 
 
 <h1 align="center">👋 Hello World! I'm <strong>Derick Bessa</strong></h1>
