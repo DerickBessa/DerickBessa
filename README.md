@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hello World! I'm <strong>Derick Bessa</strong></h1>
-<h3 align="center">🇧🇷 Brazilian Developer • Problem Solver • Tech Enthusiast</h3>
+<h3 align="center">🇧🇷 Brazilian Developer • AI & CyberSecurity Enthusiast • Fast and Logical</h3>
 
 ---
 
