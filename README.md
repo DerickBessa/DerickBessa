@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋 Hello World! I'm <strong>Derick Bessa</strong></h1>
-<h3 align="center">🇧🇷 Brazilian Developer • AI & CyberSecurity Enthusiast • Fast, Logical & Efficient</h3>
+<h3 align="center">🇧🇷 Brazilian Fullstack Developer • AI & CyberSecurity Enthusiast • Fast, Logical & Efficient</h3>
 
 ---
 
