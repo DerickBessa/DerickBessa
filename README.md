@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hello World! I'm <strong>Derick Bessa</strong></h1>
-<h3 align="center">🇧🇷 Brazilian Developer • AI & CyberSecurity Enthusiast • Fast and Logical</h3>
+<h3 align="center">🇧🇷 Brazilian Developer • AI & CyberSecurity Enthusiast • Fast, Logical & Efficient</h3>
 
 ---
 
@@ -18,7 +18,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dbessa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derickbessa)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derickbessa12@gmail.com)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=DerickBessa.DerickBessa)
 
 ---
 
@@ -36,10 +35,14 @@
 
 ### 🔹 Frameworks & Runtime
 ![NodeJS](https://img.shields.io/badge/node.js-6DA59F?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React%20Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ### 🔹 AI & Data Science
 ![YOLO](https://img.shields.io/badge/YOLO-FF5733?style=for-the-badge&logo=opencv&logoColor=white)
@@ -51,11 +54,17 @@
 
 ### 🔹 Tools & Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+### 🔹 Operating Systems
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
