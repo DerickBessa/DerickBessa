@@ -20,7 +20,7 @@
     <td>
 
 <!-- SOBRE MIM -->
-<h1 align="center">👋 Hello World! I'm <strong>Derick Bessa</strong></h1>
+<h1 align="center">👋 Hey, I'm <strong>Derick Bessa</strong></h1>
 <hr style="border-color:#00FF00;"/>
 
 <h2>🧑‍🎓 About Me</h2>
