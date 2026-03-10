@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- VISIT COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=DerickBessa&color=00FF00&style=flat-square&label=PROFILE+VIEWS" />
+<img style="margin-bottom: 10px" src="https://komarev.com/ghpvc/?username=DerickBessa&color=000000&style=flat-square&label=PROFILE+VIEWS"/>
 
 
 
