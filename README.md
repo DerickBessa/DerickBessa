@@ -3,6 +3,8 @@
 <!-- VISIT COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=DerickBessa&color=00FF00&style=flat-square&label=PROFILE+VIEWS" />
 
+
+
 <!-- TERMINAL HEADER COM BOTÕES -->
 <div style="background-color:#000000; border-radius:12px; padding:10px; display:flex; justify-content:flex-start; align-items:center; gap:8px; width:1000px; max-width:100%;">
   <span style="height:12px; width:12px; background:#ff605c; border-radius:50%; display:inline-block;"></span>
