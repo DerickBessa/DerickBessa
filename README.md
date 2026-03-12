@@ -14,7 +14,7 @@
 
 <!-- TYPING HEADER -->
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1&typeSpeed=45&color=00FF00&background=000000&center=true&vCenter=true&width=1050&height=400&lines=%24+derick%40github%3A~%24+whoami;DerickBessa...;Brazilian+%3CFullstack+Developer;Fast%2C+Logical+%26+Efficient" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1&typeSpeed=45&color=00FF00&background=000000&center=true&vCenter=true&width=1050&height=400&lines=%24+derick%40github%3A~%24+whoami;DerickBessa...;Brazilian+%3CFullstack+Developer>;Fast%2C+Logical+%26+Efficient" />
 </div>
 
 <br/>
