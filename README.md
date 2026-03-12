@@ -3,8 +3,6 @@
 <!-- VISIT COUNTER -->
 <img style="margin-bottom: 10px" src="https://komarev.com/ghpvc/?username=DerickBessa&color=000000&style=flat-square&label=PROFILE+VIEWS"/>
 
-
-
 <!-- TERMINAL HEADER COM BOTÕES -->
 <div style="background-color:#000000; border-radius:12px; padding:10px; display:flex; justify-content:flex-start; align-items:center; gap:8px; width:1000px; max-width:100%;">
   <span style="height:12px; width:12px; background:#ff605c; border-radius:50%; display:inline-block;"></span>
@@ -29,19 +27,47 @@
 <hr style="border-color:#00FF00;"/>
 <h2>🧑‍🎓 About Me</h2>
 <p style="color:#CCCCCC;">
-🎓 Computer Science student @ IFCE | Computer Vision & Full-Stack Developer<br/>
+🎓 Computer Science student @ IFCE | Full-Stack & Applied AI Developer<br/>
 💻 Researcher @ <strong>LAPISCO</strong> · Developer @ <strong>LABVICIA</strong><br/>
-🤖 Building AI-powered systems that solve real-world problems<br/>
-🔭 Currently building: <strong>TáNaLista</strong> — smart event access management system<br/>
+🚀 Founder of <strong>TáNaLista</strong> — smart event access management SaaS<br/>
+🤖 Building AI-powered backend systems that solve real-world problems<br/>
 🌱 Currently exploring: <strong>LLM integration & RAG pipelines</strong><br/>
-🎮 Chess lover, fast learner, relentless problem solver
+⚡ Fast learner, clean code advocate, relentless problem solver<br/>
+🎮 Chess lover & coffee-fueled developer ☕
+</p>
+
+<!-- PORTFOLIO -->
+<hr style="border-color:#00FF00;"/>
+<h2>🗂 Portfolio</h2>
+<p style="color:#CCCCCC;">
+🌐 <a href="https://derickbessa.vercel.app">Meu portfólio online</a>, onde apresento meus projetos acadêmicos, profissionais e pessoais.
+</p>
+
+<!-- EXPERIENCE -->
+<hr style="border-color:#00FF00;"/>
+<h2>💼 Experiência</h2>
+<p style="color:#CCCCCC;">
+🔬 Bolsista há 1 ano e meio no <strong>LAPISCO</strong> — Desenvolvedor Backend em sistemas de IA para reconhecimento de imagens, atingindo 97% de precisão em ambiente real.<br/><br/>
+🎓 Bolsista há 1 ano no <strong>LabVicia</strong> — Desenvolvedor Full Stack na construção de um SaaS acadêmico completo em Angular + Java/Spring Boot.<br/><br/>
+🚀 Founder do <strong>TáNaLista</strong> — SaaS de gestão de eventos com check-in via QR Code.<br/><br/>
+💼 Freelancer — Desenvolvi landing page completa para <strong>Gomes & Araújo Advocacia</strong>, gerando aumento de 30% nos contatos de clientes.
+</p>
+
+<!-- METHODOLOGIES -->
+<hr style="border-color:#00FF00;"/>
+<h2>⚙️ Metodologias</h2>
+<p style="color:#CCCCCC;">
+✔️ Agile / Scrum<br/>
+✔️ Clean Code<br/>
+✔️ Arquitetura em Camadas<br/>
+✔️ REST APIs<br/>
+✔️ CI/CD
 </p>
 
 <!-- CONNECT -->
 <hr style="border-color:#00FF00;"/>
 <h2>🌐 Connect with Me</h2>
 <p>
-<a href="https://derickbessa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00FF00"></a>
 <a href="https://cv-resumes.vercel.app/english/resume.html"><img src="https://img.shields.io/badge/Resume_EN-%23000000.svg?style=for-the-badge&logo=readme&logoColor=00FF00"></a>
 <a href="https://cv-resumes.vercel.app/BR/resume-ptbr.html"><img src="https://img.shields.io/badge/Resume_PT-%23000000.svg?style=for-the-badge&logo=readme&logoColor=00FF00"></a>
 <a href="https://linkedin.com/in/derickbessa"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=00FF00"></a>
@@ -52,13 +78,23 @@
 <!-- TECH STACK -->
 <hr style="border-color:#00FF00;"/>
 <h2>💻 Tech Stack</h2>
+
+<h3 style="color:#00FF00;">🖥 Frontend</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,ts,js,dart,html,css,nodejs,react,nextjs,angular,flutter,spring,fastapi,pytorch,postgres,docker,aws,sqlite,androidstudio,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,flutter&theme=dark" />
 </p>
 
-<!-- OPERATING SYSTEMS -->
-<hr style="border-color:#00FF00;"/>
-<h2>🖥 Operating Systems</h2>
+<h3 style="color:#00FF00;">⚙️ Backend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,fastapi,django,pytorch,c&theme=dark" />
+</p>
+
+<h3 style="color:#00FF00;">🛠 Tools & DevOps</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,git,github,figma,androidstudio&theme=dark" />
+</p>
+
+<h3 style="color:#00FF00;">💻 Operating Systems</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=apple,windows,linux&theme=dark" />
 </p>
@@ -93,7 +129,5 @@
   <em>"The best code is the one that solves real problems — fast, clean, and scalable."</em>
 </p>
 
-    
-  </tr>
 </table>
 </div>
