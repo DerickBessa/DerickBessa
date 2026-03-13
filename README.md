@@ -28,7 +28,7 @@
 <h2>🧑‍🎓 About Me</h2>
 <p style="color:#CCCCCC;">
 🎓 Computer Science student @ IFCE | Full-Stack & Applied AI Developer<br/>
-💻 Researcher @ <strong>LAPISCO</strong> · Developer @ <strong>LABVICIA</strong><br/>
+💻 FUll Stack Developer @ <strong>LABVICIA</strong><br/>
 🚀 Founder of <strong>TáNaLista</strong> — smart event access management SaaS<br/>
 🤖 Building AI-powered backend systems that solve real-world problems<br/>
 🌱 Currently exploring: <strong>LLM integration & RAG pipelines</strong><br/>
