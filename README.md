@@ -40,7 +40,7 @@
 <hr style="border-color:#00FF00;"/>
 <h2>🗂 Portfolio</h2>
 <p style="color:#CCCCCC;">
-🌐 <a href="https://derickbessa.vercel.app">Meu portfólio online</a>, onde apresento meus projetos acadêmicos, profissionais e pessoais.
+🌐 <a href="https://derickbessa.github.io/">Meu portfólio online</a>, onde apresento meus projetos acadêmicos, profissionais e pessoais.
 </p>
 
 <!-- EXPERIENCE -->
