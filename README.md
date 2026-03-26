@@ -28,8 +28,8 @@
 <h2>🧑‍🎓 About Me</h2>
 <p style="color:#CCCCCC;">
 🎓 Computer Science student at IFCE | Full Stack Developer & Applied AI<br/>
-💻 Full Stack Developer
-🚀 Founder of <strong>TáNaLista</strong> — Smart event access management SaaS with QR Code check-in<br/>
+💻 Full Stack Developer and       
+Founder of <strong>TáNaLista</strong> — Smart event access management SaaS with QR Code check-in<br/>
 🤖 Building backend systems with AI that solve real-world problems<br/>
 🌱 Currently exploring: <strong>LLM integration and RAG pipelines</strong><br/>
 ⚡ Fast learner, clean code advocate and relentless problem solver<br/>
