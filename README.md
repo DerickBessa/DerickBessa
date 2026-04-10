@@ -40,7 +40,7 @@ Founder of <strong>TáNaLista</strong> — Smart event access management SaaS wi
 <hr style="border-color:#00FF00;"/>
 <h2>🗂 Portfolio</h2>
 <p style="color:#CCCCCC;">
-🌐 <a href="https://derickbessa-portfolio-2026.vercel.app/">My online portfolio</a>, featuring my academic, professional and personal projects.
+🌐 <a href="https://derickbessa.github.io/">My online portfolio</a>, featuring my academic, professional and personal projects.
 </p>
 
 <!-- EXPERIENCE -->
