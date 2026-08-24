@@ -22,7 +22,7 @@
 
 <!-- VISIT COUNTER + SOCIAL, bem juntinho -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=odeckdev&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" height="28">
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-2B2B2B?style=for-the-badge" height="28"><img src="https://komarev.com/ghpvc/?username=odeckdev&color=1B5E20&style=for-the-badge&label=%20" height="28">
 &nbsp;
 <a href="https://derickbessa.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-0A1F0D?style=for-the-badge&logo=vercel&logoColor=39FF14" height="28">
