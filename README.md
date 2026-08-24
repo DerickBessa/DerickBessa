@@ -1,241 +1,111 @@
 <div align="center">
 
-<!-- DECK DEV BANNER -->
-<img
-  src="./assets/deck-banner.png"
-  alt="Deck Dev — Derick Bessa"
-  width="100%"
-/>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-19C37D?style=for-the-badge&labelColor=0A1F13" />
-<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-IFCE-F3EDE2?style=for-the-badge&labelColor=0A1F13" />
-<img src="https://img.shields.io/badge/FORTALEZA-BRAZIL-19C37D?style=for-the-badge&labelColor=0A1F13" />
+<img src="./assets/deck-banner.png" alt="Deck Dev — Derick Bessa" width="100%" />
 
 <br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=DerickBessa&color=19C37D&style=flat-square&label=PROFILE+VIEWS"
-/>
+<a href="https://derickbessa.github.io/">Portfolio</a> • <a href="https://linkedin.com/in/derickbessa">LinkedIn</a> • <a href="https://cv-resumes.vercel.app/english/resume.html">Resume</a> • <a href="https://instagram.com/odeckdev">Deck Dev</a>
 
 </div>
 
-<br/>
+---
 
-## `> whoami`
+## Hey, I'm Derick 👋
 
 **Full-Stack Developer** and Computer Science student at **IFCE**.
 
-Currently working as a **Software Development Intern at Agilean**, building and maintaining production features with **React, Node.js and .NET/C#**.
-
-I enjoy taking products from idea to production, with a strong focus on **backend architecture, performance, testing, security and AI-assisted development**.
-
-```bash
-derick@deckdev:~$ focus
-
-→ Full-Stack Development
-→ Backend Architecture
-→ Applied AI
-→ Performance & Scalability
-→ Developer Automation
-```
+Currently working at **Agilean** with `React`, `Node.js` and `.NET`, while building projects focused on **backend, AI, automation and real-world products**.
 
 ---
 
-## `> experience`
-
-### 💼 Agilean
-
-**Software Development Intern · 2026 — Present**
-
-`React` `Node.js` `.NET` `SQL Server` `TanStack Query` `Mixpanel`
-
-Building full-stack features, REST APIs, data integrations and production improvements.
-
-- Reduced redundant API requests using caching and selective revalidation
-- Implemented product analytics instrumentation with Mixpanel
-- Using Claude Code, Git Worktrees and automation in the daily development workflow
-
-### 🎓 LabVicia · IFCE
-
-**Full-Stack Developer · Research Scholar · 2025 — Present**
-
-`Angular` `Java` `Spring Boot` `PostgreSQL`
-
-Developing an academic SaaS with enrollment, class management, chat and consultant allocation.
-
-**Highlight:** optimized large data listings with pagination, cache and virtual scrolling, reducing response time by **75%**.
-
-### 🔬 LAPISCO · IFCE
-
-**Research Scholar · 2024 — 2026**
-
-`Python` `FastAPI` `Java` `Spring Boot` `React Native` `Computer Vision`
-
-Integrated computer vision services with a Java backend, connecting the complete flow from mobile image capture to AI processing.
-
----
-
-## `> featured_projects`
-
-<table>
-<tr>
-<td width="33%" valign="top">
+# 🚀 Projects
 
 ### 🛰️ Sentinela
 
-Real-time platform health monitoring system.
+**Real-time platform health monitoring system**
 
-`Python` `WebSocket` `Loki` `SQL Server`
+`Python` `WebSocket` `Loki` `SQL Server` `Grafana`
 
-- Real-time log streaming
-- Automatic reconnection + backfill
-- Z-score anomaly detection
-- Microsoft Teams alerts
-- **211 automated tests**
+Real-time production monitoring with anomaly detection, automatic reconnection, historical backfill and Microsoft Teams alerts.
 
-</td>
+**211 automated tests** covering the monitoring pipeline.
 
-<td width="33%" valign="top">
+---
 
 ### 💍 Até o Altar
 
-Mobile wedding planning application.
+**Mobile wedding planning platform**
 
-`React Native` `Expo` `Supabase` `TypeScript`
+`React Native` `Expo` `TypeScript` `Supabase` `AI`
 
-- Supabase Auth + Storage
-- Row Level Security
-- Edge Functions
-- Generative AI integration
-- Automated reminders with `pg_cron`
+Mobile product with authentication, RLS, storage, Edge Functions, automated reminders and isolated generative AI integration.
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🛒 AgileShop
 
-Full-stack product catalog built for a technical challenge.
+**Full-stack product platform**
 
 `React 19` `.NET 10` `EF Core` `SQLite`
 
-- REST API
-- Filters + pagination
-- Shopping cart
-- Analytics dashboard
-- Dark mode
-- **~70% test coverage**
+Complete REST API with filtering, pagination, shopping cart, dashboard and dark mode.
 
-</td>
-</tr>
-</table>
+Built in **4 days** with approximately **70% automated test coverage**.
 
 ---
 
-## `> stack`
+## 💼 Experience
 
-### Frontend
+**Agilean** — Software Development Intern
+`React` `Node.js` `.NET` `SQL Server`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind&theme=dark" />
-</p>
+**LabVicia · IFCE** — Full-Stack Developer / Research Scholar
+`Angular` `Java` `Spring Boot` `PostgreSQL`
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,java,spring,nodejs,python&theme=dark" />
-</p>
-
-### Data & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions,azure&theme=dark" />
-</p>
-
-### AI-assisted Development
-
-```text
-Claude Code  •  Codex  •  Hermes Agent  •  OpenCode / GLM
-```
+**LAPISCO · IFCE** — Research Scholar
+`Python` `FastAPI` `Java` `Computer Vision`
 
 ---
 
-## `> connect`
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://derickbessa.github.io/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-19C37D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1F13"/>
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2&icon_color=19C37D"
+/>
+
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2"
+/>
+
+<br/>
+
+<img
+width="97%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odeckdev&theme=github_dark"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `build → ship → improve`
+
+<a href="mailto:deckdev12@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0A1F13?style=for-the-badge&logo=gmail&logoColor=19C37D"/>
 </a>
 
 <a href="https://linkedin.com/in/derickbessa">
-  <img src="https://img.shields.io/badge/LINKEDIN-19C37D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F13"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A1F13?style=for-the-badge&logo=linkedin&logoColor=19C37D"/>
 </a>
 
-<a href="https://github.com/DerickBessa">
-  <img src="https://img.shields.io/badge/GITHUB-F3EDE2?style=for-the-badge&logo=github&logoColor=0F1110&labelColor=4B5563"/>
+<a href="https://github.com/odeckdev">
+  <img src="https://img.shields.io/badge/GITHUB-0A1F13?style=for-the-badge&logo=github&logoColor=19C37D"/>
 </a>
-
-<a href="https://instagram.com/odeckdev">
-  <img src="https://img.shields.io/badge/DECK_DEV-19C37D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A1F13"/>
-</a>
-
-<a href="mailto:deckdev12@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-F3EDE2?style=for-the-badge&logo=gmail&logoColor=0F1110&labelColor=4B5563"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://cv-resumes.vercel.app/english/resume.html">
-  <img src="https://img.shields.io/badge/RESUME-EN-19C37D?style=flat-square&labelColor=0A1F13"/>
-</a>
-
-<a href="https://cv-resumes.vercel.app/BR/resume-ptbr.html">
-  <img src="https://img.shields.io/badge/CURRÍCULO-PT--BR-F3EDE2?style=flat-square&labelColor=0A1F13"/>
-</a>
-
-</div>
-
----
-
-<details>
-<summary><b>📊 GitHub statistics</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DerickBessa&theme=github_dark"
-/>
-
-<img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DerickBessa&theme=github_dark"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DerickBessa&theme=github_dark"
-/>
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-`CREATIVITY` **+** `ENGINEERING` **→ DECK DEV**
 
 </div>
