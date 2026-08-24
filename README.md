@@ -12,33 +12,46 @@
 
 ---
 
-## Hey, I'm Derick 👋
+## `> whoami`
 
-**Full-Stack Developer** and Computer Science student at **IFCE**.
+**Derick Bessa** — Full-Stack Developer & Computer Science student at **IFCE**.
 
-Currently working at **Agilean** with `React`, `Node.js` and `.NET`, building products focused on **backend, AI and automation**.
-
----
-
-## 💼 Experience
-
-**Agilean** — Software Development Intern
-**LabVicia · IFCE** — Full-Stack Developer & Research Scholar
-**LAPISCO · IFCE** — Research Scholar
+Currently working as a **Software Development Intern at Agilean**, building production software with a focus on backend, performance, automation and AI-assisted development.
 
 ---
 
-## 🛠 Stack
+## `> experience`
+
+**2026 — now** · **Agilean**
+Software Development Intern
+
+**2025 — now** · **LabVicia · IFCE**
+Full-Stack Developer · Research Scholar
+
+**2024 — 2026** · **LAPISCO · IFCE**
+Research Scholar
+
+---
+
+## `> stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,dotnet,java,spring,nodejs,python,postgres,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,dotnet,java,spring,nodejs,python,postgres,mysql,docker,git,githubactions,azure&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`React` • `Node.js` • `.NET` • `Java / Spring Boot` • `Python` • `PostgreSQL`
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## `> github --stats`
 
 <div align="center">
 
@@ -65,10 +78,16 @@ Currently working at **Agilean** with `React`, `Node.js` and `.NET`, building pr
 
 <div align="center">
 
-<a href="https://linkedin.com/in/derickbessa">LinkedIn</a>
-•
-<a href="https://derickbessa.github.io/">Portfolio</a>
-•
-<a href="mailto:deckdev12@gmail.com">Email</a>
+<a href="https://linkedin.com/in/derickbessa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A1F13?style=for-the-badge&logo=linkedin&logoColor=19C37D"/>
+</a>
+
+<a href="https://derickbessa.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0A1F13?style=for-the-badge&logo=vercel&logoColor=19C37D"/>
+</a>
+
+<a href="mailto:deckdev12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A1F13?style=for-the-badge&logo=gmail&logoColor=19C37D"/>
+</a>
 
 </div>
