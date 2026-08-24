@@ -1,133 +1,148 @@
 <div align="center">
 
-<!-- VISIT COUNTER -->
-<img style="margin-bottom: 10px" src="https://komarev.com/ghpvc/?username=odeckdev&color=000000&style=flat-square&label=PROFILE+VIEWS"/>
-
-
 <!-- DECK DEV BANNER -->
-<div align="center">
-  <img
-    src="./assets/deck-banner.png"
-    alt="Deck Dev Banner"
-    width="100%"
-  />
-</div>
+<img
+  src="./assets/deck-banner.png"
+  alt="Deck Dev Banner"
+  width="100%"
+/>
 
 <br/>
 
-<!-- TERMINAL CONTAINER PRINCIPAL -->
-<table width="1000" style="background-color:#000000; border-radius:12px; padding:20px; color:#00FF00; font-family: 'Fira Code', monospace;">
-  <tr>
-    <td>
+<!-- VISIT COUNTER -->
+<img
+  src="https://komarev.com/ghpvc/?username=odeckdev&color=19C37D&style=flat-square&label=PROFILE+VIEWS"
+/>
 
-<!-- ABOUT ME -->
-<h1 align="center">👋 Hi, I'm <strong>Derick Bessa</strong></h1>
-<hr style="border-color:#00FF00;"/>
-<h2>🧑‍🎓 About Me</h2>
-<p style="color:#CCCCCC;">
-🎓 Computer Science student at IFCE | Full Stack Developer & Applied AI<br/>
-💻 Full Stack Developer and       
-Founder of <strong>TáNaLista</strong> — Smart event access management SaaS with QR Code check-in<br/>
-🤖 Building backend systems with AI that solve real-world problems<br/>
-🌱 Currently exploring: <strong>LLM integration and RAG pipelines</strong><br/>
-⚡ Fast learner, clean code advocate and relentless problem solver<br/>
-🎮 Chess lover and coffee-driven developer ☕
-</p>
+<br/><br/>
 
-<!-- PORTFOLIO -->
-<hr style="border-color:#00FF00;"/>
-<h2>🗂 Portfolio</h2>
-<p style="color:#CCCCCC;">
-🌐 <a href="https://derickbessa.github.io/">My online portfolio</a>, featuring my academic, professional and personal projects.
-</p>
+<h1>👋 Hi, I'm Derick Bessa</h1>
 
-<!-- EXPERIENCE -->
-<hr style="border-color:#00FF00;"/>
-<h2>💼 Experience</h2>
-<p style="color:#CCCCCC;">
-🔬 Research Scholar for 1.5 years at <strong>LAPISCO</strong> — Backend Developer on AI systems for image recognition, achieving 97% accuracy in real-world environments.<br/><br/>
-🎓 Research Scholar for 1 year at <strong>LabVicia</strong> — Full Stack Developer building a complete academic SaaS in Angular + Java/Spring Boot.<br/><br/>
-🚀 Founder of <strong>TáNaLista</strong> — Event management SaaS with QR Code check-in.<br/><br/>
-💼 Freelancer — Built a complete landing page for <strong>Gomes & Araújo Law Firm</strong>, generating a 30% increase in client contacts.
-</p>
-
-<!-- METHODOLOGIES -->
-<hr style="border-color:#00FF00;"/>
-<h2>⚙️ Methodologies</h2>
-<p style="color:#CCCCCC;">
-✔️ Agile / Scrum<br/>
-✔️ Clean Code<br/>
-✔️ Layered Architecture<br/>
-✔️ REST APIs<br/>
-✔️ CI/CD
-</p>
-
-<!-- CONTACT -->
-<hr style="border-color:#00FF00;"/>
-<h2>🌐 Get in Touch</h2>
 <p>
-<a href="https://cv-resumes.vercel.app/english/resume.html"><img src="https://img.shields.io/badge/Resume_EN-%23000000.svg?style=for-the-badge&logo=readme&logoColor=00FF00"></a>
-<a href="https://cv-resumes.vercel.app/BR/resume-ptbr.html"><img src="https://img.shields.io/badge/Resume_PT-%23000000.svg?style=for-the-badge&logo=readme&logoColor=00FF00"></a>
-<a href="https://linkedin.com/in/derickbessa"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=00FF00"></a>
-<a href="https://instagram.com/_dbessa"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=00FF00"></a>
-<a href="mailto:deckdev12@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=00FF00"></a>
+  <strong>Full-Stack Developer · Computer Science @ IFCE</strong>
 </p>
 
-<!-- TECH STACK -->
-<hr style="border-color:#00FF00;"/>
-<h2>💻 Tech Stack</h2>
-
-<h3 style="color:#00FF00;">🖥 Frontend</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,html,tailwind,nextjs,angular&theme=dark" />
+  Building real-world products with
+  <strong>React, Node.js, .NET, Java/Spring Boot and AI.</strong>
 </p>
 
-<h3 style="color:#00FF00;">⚙️ Backend</h3>
+<a href="https://derickbessa.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0A1F13?style=for-the-badge&logo=vercel&logoColor=19C37D">
+</a>
+
+<a href="https://linkedin.com/in/derickbessa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A1F13?style=for-the-badge&logo=linkedin&logoColor=19C37D">
+</a>
+
+<a href="https://cv-resumes.vercel.app/english/resume.html">
+  <img src="https://img.shields.io/badge/Resume-0A1F13?style=for-the-badge&logo=readme&logoColor=19C37D">
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 💼 Software Development Intern at **Agilean**
+- 🎓 Computer Science student at **IFCE**
+- ⚙️ Full-Stack development with a strong focus on **backend, performance and architecture**
+- 🤖 AI-assisted development, integrations and developer automation
+- 🚀 I like building products from idea to production
+
+---
+
+## 💼 Experience
+
+### Agilean
+**Software Development Intern · 2026 — Present**
+
+`React` · `Node.js` · `.NET` · `SQL Server`
+
+Full-stack development, REST APIs, third-party integrations, performance improvements and production maintenance.
+
+### LabVicia · IFCE
+**Full-Stack Developer · Research Scholar · 2025 — Present**
+
+`Angular` · `Java` · `Spring Boot` · `PostgreSQL`
+
+Development of an academic SaaS, including core workflows, performance optimization and production support.
+
+### LAPISCO · IFCE
+**Research Scholar · 2024 — 2026**
+
+`Python` · `FastAPI` · `Java` · `Computer Vision`
+
+Backend and AI integration for computer vision systems, connecting mobile applications, APIs and AI services.
+
+---
+
+## 💻 Tech Stack
+
+### Core
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,dotnet,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs,dotnet,java,spring,python&theme=dark" />
 </p>
 
-<h3 style="color:#00FF00;">🛠 Tools & DevOps</h3>
+### Data & Infrastructure
+
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,mysql,figma,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions,azure&theme=dark" />
 </p>
 
-<h3 style="color:#00FF00;">💻 Operating Systems</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=apple,ubuntu,windows&theme=dark" />
-</p>
+### Currently using
 
-<!-- GITHUB STATS -->
-<hr style="border-color:#00FF00;"/>
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=odeckdev&theme=2077&cache_seconds=1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odeckdev&theme=2077&cache_seconds=1" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odeckdev&theme=2077&cache_seconds=1" />
-</p>
+`React` · `Node.js` · `.NET` · `Java/Spring Boot` · `Python` · `PostgreSQL`
 
-<!-- STREAK -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=odeckdev&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=CCCCCC&sideNums=00FF00" />
-</p>
+---
 
-<!-- SNAKE -->
-<hr style="border-color:#00FF00;"/>
-<h2>🐍 Fun Section</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odeckdev/odeckdev/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/odeckdev/odeckdev/output/github-snake.svg" />
-</picture>
+## 📊 GitHub Stats
 
-<!-- QUOTE -->
-<hr style="border-color:#00FF00;"/>
-<p align="center" style="color:#00FF00; font-family: 'Fira Code', monospace;">
-  <em>"The best code is the one that solves real problems — fast, clean and scalable."</em>
-</p>
+<div align="center">
 
-</td>
-  </tr>
-</table>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2&icon_color=19C37D"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2"
+/>
+
+<br/>
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odeckdev&theme=github_dark"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=odeckdev&theme=dark&hide_border=true&background=0F1110&ring=19C37D&fire=19C37D&currStreakLabel=19C37D&sideLabels=F3EDE2&dates=8B949E&sideNums=F3EDE2"
+/>
+
+</div>
+
+---
+
+## 🌐 Get in Touch
+
+<div align="center">
+
+<a href="https://linkedin.com/in/derickbessa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A1F13?style=for-the-badge&logo=linkedin&logoColor=19C37D">
+</a>
+
+<a href="https://instagram.com/odeckdev">
+  <img src="https://img.shields.io/badge/Deck_Dev-0A1F13?style=for-the-badge&logo=instagram&logoColor=19C37D">
+</a>
+
+<a href="mailto:deckdev12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A1F13?style=for-the-badge&logo=gmail&logoColor=19C37D">
+</a>
+
 </div>
