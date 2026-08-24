@@ -64,14 +64,14 @@ I build production software with a focus on **backend development, performance, 
 
 <img
   width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2&icon_color=19C37D"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2&icon_color=19C37D"
 />
 
 <br/>
 
 <img
   width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2"
 />
 
 </td>
