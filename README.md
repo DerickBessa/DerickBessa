@@ -25,22 +25,14 @@ Currently working at **Agilean** with `React`, `Node.js` and `.NET`, building pr
 ### 🛰️ Sentinela
 `Python` `WebSocket` `Loki` `SQL Server`
 
-[→ View repository](LINK_DO_REPO)
-
 ### 💍 Até o Altar
 `React Native` `Expo` `TypeScript` `Supabase`
-
-[→ View repository](LINK_DO_REPO)
 
 ### 🛒 AgileShop
 `React` `.NET` `EF Core` `SQLite`
 
-[→ View repository](LINK_DO_REPO)
-
 ### 🎟️ TáNaLista
 `React` `Backend` `QR Code` `AI`
-
-[→ View repository](LINK_DO_REPO)
 
 ---
 
