@@ -7,7 +7,7 @@
 <!-- DECK DEV BANNER -->
 <div align="center">
   <img
-    src="./assets/bannr.png"
+    src="./assets/banner.png"
     alt="Deck Dev Banner"
     width="100%"
   />
