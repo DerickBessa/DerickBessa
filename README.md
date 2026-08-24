@@ -3,7 +3,7 @@
 <img
   src="./assets/deck-banner.png"
   alt="Deck Dev Banner"
-  height="220"
+  width="100%"
 />
 
 <br/>
