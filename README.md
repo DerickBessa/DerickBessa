@@ -9,13 +9,6 @@
 
 <br/>
 
-<!-- VISIT COUNTER -->
-<img
-  src="https://komarev.com/ghpvc/?username=odeckdev&color=19C37D&style=flat-square&label=PROFILE+VIEWS"
-/>
-
-<br/><br/>
-
 <h1>👋 Hi, I'm Derick Bessa</h1>
 
 <p>
@@ -27,17 +20,20 @@
   <strong>React, Node.js, .NET, Java/Spring Boot and AI.</strong>
 </p>
 
+<!-- VISIT COUNTER + SOCIAL, bem juntinho -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=odeckdev&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" height="28">
+&nbsp;
 <a href="https://derickbessa.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-0A1F13?style=for-the-badge&logo=vercel&logoColor=19C37D">
+  <img src="https://img.shields.io/badge/Portfolio-0A1F0D?style=for-the-badge&logo=vercel&logoColor=39FF14" height="28">
 </a>
-
 <a href="https://linkedin.com/in/derickbessa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A1F13?style=for-the-badge&logo=linkedin&logoColor=19C37D">
+  <img src="https://img.shields.io/badge/LinkedIn-0A1F0D?style=for-the-badge&logo=linkedin&logoColor=39FF14" height="28">
 </a>
-
 <a href="https://cv-resumes.vercel.app/english/resume.html">
-  <img src="https://img.shields.io/badge/Resume-0A1F13?style=for-the-badge&logo=readme&logoColor=19C37D">
+  <img src="https://img.shields.io/badge/Resume-0A1F0D?style=for-the-badge&logo=readme&logoColor=39FF14" height="28">
 </a>
+</p>
 
 </div>
 
@@ -104,12 +100,12 @@ Backend and AI integration for computer vision systems, connecting mobile applic
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2&icon_color=19C37D"
+  src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=39FF14&text_color=F3EDE2&icon_color=39FF14"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=39FF14&text_color=F3EDE2"
 />
 
 <br/>
@@ -122,7 +118,7 @@ Backend and AI integration for computer vision systems, connecting mobile applic
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=odeckdev&theme=dark&hide_border=true&background=0F1110&ring=19C37D&fire=19C37D&currStreakLabel=19C37D&sideLabels=F3EDE2&dates=8B949E&sideNums=F3EDE2"
+  src="https://github-readme-streak-stats.herokuapp.com?user=odeckdev&theme=dark&hide_border=true&background=0F1110&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=F3EDE2&dates=8B949E&sideNums=F3EDE2"
 />
 
 </div>
@@ -134,15 +130,15 @@ Backend and AI integration for computer vision systems, connecting mobile applic
 <div align="center">
 
 <a href="https://linkedin.com/in/derickbessa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A1F13?style=for-the-badge&logo=linkedin&logoColor=19C37D">
+  <img src="https://img.shields.io/badge/LinkedIn-0A1F0D?style=for-the-badge&logo=linkedin&logoColor=39FF14">
 </a>
 
 <a href="https://instagram.com/odeckdev">
-  <img src="https://img.shields.io/badge/Deck_Dev-0A1F13?style=for-the-badge&logo=instagram&logoColor=19C37D">
+  <img src="https://img.shields.io/badge/Deck_Dev-0A1F0D?style=for-the-badge&logo=instagram&logoColor=39FF14">
 </a>
 
 <a href="mailto:deckdev12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A1F13?style=for-the-badge&logo=gmail&logoColor=19C37D">
+  <img src="https://img.shields.io/badge/Email-0A1F0D?style=for-the-badge&logo=gmail&logoColor=39FF14">
 </a>
 
 </div>
