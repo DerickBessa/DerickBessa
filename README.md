@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- DECK DEV BANNER -->
 <img
   src="./assets/deck-banner.png"
   alt="Deck Dev Banner"
@@ -9,136 +8,73 @@
 
 <br/>
 
-<h1>👋 Hi, I'm Derick Bessa</h1>
+<img
+  src="https://komarev.com/ghpvc/?username=odeckdev&color=19C37D&style=flat-square&label=PROFILE+VIEWS"
+/>
 
-<p>
-  <strong>Full-Stack Developer · Computer Science @ IFCE</strong>
-</p>
+<br/><br/>
 
-<p>
-  Building real-world products with
-  <strong>React, Node.js, .NET, Java/Spring Boot and AI.</strong>
-</p>
-
-<!-- VISIT COUNTER + SOCIAL, bem juntinho -->
-<p>
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-2B2B2B?style=for-the-badge" height="28"><img src="https://komarev.com/ghpvc/?username=odeckdev&color=1B5E20&style=for-the-badge&label=%20" height="28">
-&nbsp;
-<a href="https://derickbessa.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-0A1F0D?style=for-the-badge&logo=vercel&logoColor=39FF14" height="28">
-</a>
-<a href="https://linkedin.com/in/derickbessa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A1F0D?style=for-the-badge&logo=linkedin&logoColor=39FF14" height="28">
-</a>
-<a href="https://cv-resumes.vercel.app/english/resume.html">
-  <img src="https://img.shields.io/badge/Resume-0A1F0D?style=for-the-badge&logo=readme&logoColor=39FF14" height="28">
-</a>
-</p>
+<a href="https://derickbessa.github.io/">Portfolio</a> •
+<a href="https://linkedin.com/in/derickbessa">LinkedIn</a> •
+<a href="https://cv-resumes.vercel.app/english/resume.html">Resume</a> •
+<a href="mailto:deckdev12@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Hi, I'm Derick Bessa
 
-- 💼 Software Development Intern at **Agilean**
-- 🎓 Computer Science student at **IFCE**
-- ⚙️ Full-Stack development with a strong focus on **backend, performance and architecture**
-- 🤖 AI-assisted development, integrations and developer automation
-- 🚀 I like building products from idea to production
+I'm a **Full-Stack Developer** and Computer Science student at **IFCE**, currently working at **Agilean**.
 
----
+I build production software with a focus on **backend development, performance, automation and AI-assisted workflows**, working across the stack with technologies such as React, Node.js, .NET, Java/Spring Boot and Python.
 
-## 💼 Experience
-
-### Agilean
-**Software Development Intern · 2026 — Present**
-
-`React` · `Node.js` · `.NET` · `SQL Server`
-
-Full-stack development, REST APIs, third-party integrations, performance improvements and production maintenance.
-
-### LabVicia · IFCE
-**Full-Stack Developer · Research Scholar · 2025 — Present**
-
-`Angular` · `Java` · `Spring Boot` · `PostgreSQL`
-
-Development of an academic SaaS, including core workflows, performance optimization and production support.
-
-### LAPISCO · IFCE
-**Research Scholar · 2024 — 2026**
-
-`Python` · `FastAPI` · `Java` · `Computer Vision`
-
-Backend and AI integration for computer vision systems, connecting mobile applications, APIs and AI services.
+- 💼 **Agilean** — Full-stack development with React, Node.js and .NET.
+- 🎓 **LabVicia · IFCE** — Built and optimized an academic SaaS using Angular and Java/Spring Boot.
+- 🔬 **LAPISCO · IFCE** — Worked with backend and computer vision integrations using Python, FastAPI and Java.
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Stack & GitHub
 
-### Core
+<table>
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs,dotnet,java,spring,python&theme=dark" />
-</p>
+<td width="50%" valign="top">
 
-### Data & Infrastructure
+### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions,azure&theme=dark" />
-</p>
+#### Frontend
 
-### Currently using
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind&theme=dark" />
 
-`React` · `Node.js` · `.NET` · `Java/Spring Boot` · `Python` · `PostgreSQL`
+#### Backend
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,java,spring,python&theme=dark" />
 
-## 📊 GitHub Stats
+#### Data & DevOps
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions,azure&theme=dark" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### GitHub Stats
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=39FF14&text_color=F3EDE2&icon_color=39FF14"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=39FF14&text_color=F3EDE2"
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=odeckdev&show_icons=true&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2&icon_color=19C37D"
 />
 
 <br/>
 
 <img
-  width="95%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odeckdev&theme=github_dark"
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeckdev&layout=compact&hide_border=true&bg_color=0F1110&title_color=19C37D&text_color=F3EDE2"
 />
 
-<br/>
+</td>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=odeckdev&theme=dark&hide_border=true&background=0F1110&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=F3EDE2&dates=8B949E&sideNums=F3EDE2"
-/>
-
-</div>
-
----
-
-## 🌐 Get in Touch
-
-<div align="center">
-
-<a href="https://linkedin.com/in/derickbessa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A1F0D?style=for-the-badge&logo=linkedin&logoColor=39FF14">
-</a>
-
-<a href="https://instagram.com/odeckdev">
-  <img src="https://img.shields.io/badge/Deck_Dev-0A1F0D?style=for-the-badge&logo=instagram&logoColor=39FF14">
-</a>
-
-<a href="mailto:deckdev12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A1F0D?style=for-the-badge&logo=gmail&logoColor=39FF14">
-</a>
-
-</div>
+</tr>
+</table>
