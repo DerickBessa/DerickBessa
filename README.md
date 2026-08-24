@@ -3,7 +3,7 @@
 <img
   src="./assets/deck-banner.png"
   alt="Deck Dev Banner"
-  width="100%"
+  height="220"
 />
 
 <br/>
@@ -11,13 +11,20 @@
 <img
   src="https://komarev.com/ghpvc/?username=odeckdev&color=19C37D&style=flat-square&label=PROFILE+VIEWS"
 />
+<br/>
 
-<br/><br/>
-
-<a href="https://derickbessa.github.io/">Portfolio</a> •
-<a href="https://linkedin.com/in/derickbessa">LinkedIn</a> •
-<a href="https://cv-resumes.vercel.app/english/resume.html">Resume</a> •
-<a href="mailto:deckdev12@gmail.com">Email</a>
+<a href="https://derickbessa.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=19C37D" />
+</a>
+<a href="https://linkedin.com/in/derickbessa">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=19C37D" />
+</a>
+<a href="https://cv-resumes.vercel.app/english/resume.html">
+  <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readme&logoColor=19C37D" />
+</a>
+<a href="mailto:deckdev12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=19C37D" />
+</a>
 
 </div>
 
