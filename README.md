@@ -214,18 +214,18 @@ Claude Code  •  Codex  •  Hermes Agent  •  OpenCode / GLM
 
 <img
   height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DerickBessa&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=odeckdev&theme=github_dark"
 />
 
 <img
   height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DerickBessa&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odeckdev&theme=github_dark"
 />
 
 <br/>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DerickBessa&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odeckdev&theme=github_dark"
 />
 
 </div>
