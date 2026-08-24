@@ -3,16 +3,14 @@
 <!-- VISIT COUNTER -->
 <img style="margin-bottom: 10px" src="https://komarev.com/ghpvc/?username=DerickBessa&color=000000&style=flat-square&label=PROFILE+VIEWS"/>
 
-<!-- TERMINAL HEADER COM BOTÕES -->
-<div style="background-color:#000000; border-radius:12px; padding:10px; display:flex; justify-content:flex-start; align-items:center; gap:8px; width:1000px; max-width:100%;">
-  <span style="height:12px; width:12px; background:#ff605c; border-radius:50%; display:inline-block;"></span>
-  <span style="height:12px; width:12px; background:#ffbd44; border-radius:50%; display:inline-block;"></span>
-  <span style="height:12px; width:12px; background:#00ca56; border-radius:50%; display:inline-block;"></span>
-</div>
 
-<!-- TYPING HEADER -->
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=800&typeSpeed=25&color=00FF00&background=000000&center=true&vCenter=true&width=1050&height=200&lines=Derick+Bessa;Full+Stack+Developer;Building+real-world+solutions" />
+<!-- DECK DEV BANNER -->
+<div align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Deck Dev Banner"
+    width="100%"
+  />
 </div>
 
 <br/>
