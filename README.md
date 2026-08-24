@@ -20,22 +20,6 @@ Currently working at **Agilean** with `React`, `Node.js` and `.NET`, building pr
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛰️ Sentinela
-`Python` `WebSocket` `Loki` `SQL Server`
-
-### 💍 Até o Altar
-`React Native` `Expo` `TypeScript` `Supabase`
-
-### 🛒 AgileShop
-`React` `.NET` `EF Core` `SQLite`
-
-### 🎟️ TáNaLista
-`React` `Backend` `QR Code` `AI`
-
----
-
 ## 💼 Experience
 
 **Agilean** — Software Development Intern
