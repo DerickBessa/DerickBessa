@@ -34,7 +34,7 @@ I'm a **Full-Stack Developer** and Computer Science student at **IFCE**, current
 
 I build production software with a focus on **backend development, performance, automation and AI-assisted workflows**, working across the stack with technologies such as React, Node.js, .NET, Java/Spring Boot and Python.
 
-- 💼 **Agilean** — Full-stack development with React, Node.js and .NET.
+- 💼 **Paggo** — Full-stack development with React and Node.js.
 - 🎓 **LabVicia · IFCE** — Built and optimized an academic SaaS using Angular and Java/Spring Boot.
 - 🔬 **LAPISCO · IFCE** — Worked with backend and computer vision integrations using Python, FastAPI and Java.
 
